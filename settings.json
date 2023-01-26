@@ -1,0 +1,15 @@
+{
+    "code-runner.runInTerminal": true,
+    "material-icon-theme.folders.theme": "specific",
+    "cmake.configureOnEdit": false,
+    "latex-workshop.view.pdf.viewer": "tab",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.venvPath": "/home/quang_le/virtual_env_dir/project_vir_env",
+    // "python.venvPath": "/home/quang_le/myenv",
+    "window.zoomLevel": 1,
+    "security.workspace.trust.untrustedFiles": "open",
+    "workbench.iconTheme": "material-icon-theme",
+    "arduino.path": "/snap/bin/arduino",
+    "arduino.commandPath": "arduino"
+    // "arduino.additionalUrls": ""
+}
